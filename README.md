@@ -8,7 +8,9 @@ The purpose of this analysis is to provide temperature data for the months of Ju
 
 Here are the summary statistics for temperature data from June (2010 - 2017) and December (2010 - 2016).
 
-![June_Temps](https://github.com/mshideler/surfs_up/blob/main/Resources/june_temps.png)		![Dec_Temps](https://github.com/mshideler/surfs_up/blob/main/Resources/dec_temps.png)
+![June_Temps](https://github.com/mshideler/surfs_up/blob/main/Resources/june_temps.png)
+
+![Dec_Temps](https://github.com/mshideler/surfs_up/blob/main/Resources/dec_temps.png)
 
 - Data collection stopped after 8/23/2017, so that's why there is a significant difference in the count between the two tables.  Ideally they should have the same amount of data for a better comparison; however, that is beyond our control.
 
